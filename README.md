@@ -6,4 +6,4 @@
   People who want to value of home in Bosten area by their requirements.
 
 ## Gather Data
-   [link text itself] : https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html
+   [Boston Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html)
