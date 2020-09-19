@@ -13,7 +13,7 @@
    
 ## EDA
    ![](images/avg_no_room.png)
-   ![](images/distance.png)
+   <img src="images/distance.png" width ="500" height="300" >
    ![](images/download.png)
    ![](images/house_price.png)
    ![](images/room_price.png)
