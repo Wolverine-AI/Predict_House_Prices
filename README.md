@@ -4,6 +4,7 @@
    
 
 ## Business Problem
+![](images/problem.png)
   People who want to value of home in Bosten area by their requirements.
 
 ## Gather Data
