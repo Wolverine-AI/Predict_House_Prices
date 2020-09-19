@@ -1,5 +1,5 @@
 # Predict House Prices : Project Overview
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![](images/boston.png)
 * Build a home valuation tool
    
 
@@ -10,3 +10,6 @@
    [Boston Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html)
    
 ## EDA
+      
+      
+## Model
