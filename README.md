@@ -4,7 +4,7 @@
    
 
 ## Business Problem
-  <img src="images/problem.png" height=500px >
+  <img src="images/problem.png" height="500px" >
   
   People who want to value of home in Bosten area by their requirements.
 
