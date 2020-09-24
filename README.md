@@ -9,7 +9,7 @@
   People who want to value of home in Bosten area by their requirements.
 
 ## Gather Data
-   [Boston Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html)
+  Get details about [Boston Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html)
    
 ## EDA
    ![](images/avg_no_room.png)
