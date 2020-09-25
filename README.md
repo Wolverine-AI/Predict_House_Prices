@@ -12,11 +12,15 @@
   Get details about [Boston Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html)
    
 ## EDA
-   ![](images/avg_no_room.png)
+##### These are some visualization which explain deep inside information about Boston houses prices.
+#### Histogram
+   ![](images/avg_no_room.png)    
    <img src="images/distance.png" width ="500" height="300" >
    ![](images/download.png)
    ![](images/house_price.png)
    ![](images/room_price.png)
+
+#### Heatmap   
    ![](images/heatmap.png)
       
       
