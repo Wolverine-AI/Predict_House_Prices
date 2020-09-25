@@ -15,8 +15,10 @@
 ##### These are some visualization which explain deep inside information about Boston houses prices.
 #### Histogram
    ![](images/avg_no_room.png)    
+#### Scatter Plot   
    <img src="images/distance.png" width ="500" height="300" >
    ![](images/download.png)
+#### Joint Plot   
    ![](images/house_price.png)
    ![](images/room_price.png)
 
