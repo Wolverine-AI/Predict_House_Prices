@@ -8,7 +8,8 @@
 ## Business Problem
   <img src="images/problem.png" width ="500" height="300" >
   
-  * Most people want to buy home their favorite city
+  * Most people want to buy home in city and a specific area but they don't know price of house in this area.
+  * For solving this problem we have to make model that help people to buying new home.
 
 ## Gather Data
   Get details about [Boston Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html)
