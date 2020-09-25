@@ -16,12 +16,12 @@
 #### Histogram
    ![](images/avg_no_room.png)    
 #### Scatter Plot   
-   <img src="images/distance.png" width ="500" height="300" >
-#### Joint Plot   
-   ![](images/download.png)   
-   
+   <img src="images/distance.png" width ="500" height="300" >   
    ![](images/house_price.png)
    ![](images/room_price.png)
+   
+#### Joint Plot   
+   ![](images/download.png) 
 
 #### Heatmap   
    ![](images/heatmap.png)
