@@ -1,12 +1,14 @@
 # Predict House Prices : Project Overview
 ![](images/boston.png)
-* Build a home valuation tool
-   
+* Solving problem of house prices for new home buyer.
+* Build a home valuation tool.
+
+      This tool predict house prices in Boston area which help peoples to find home by their budgets and requirements.
 
 ## Business Problem
   <img src="images/problem.png" width ="500" height="300" >
   
-  People who want to value of home in Bosten area by their requirements.
+  * Most people want to buy home their favorite city
 
 ## Gather Data
   Get details about [Boston Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html)
