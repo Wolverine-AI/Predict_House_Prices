@@ -17,8 +17,9 @@
    ![](images/avg_no_room.png)    
 #### Scatter Plot   
    <img src="images/distance.png" width ="500" height="300" >
-   ![](images/download.png)
 #### Joint Plot   
+   ![](images/download.png)   
+   
    ![](images/house_price.png)
    ![](images/room_price.png)
 
