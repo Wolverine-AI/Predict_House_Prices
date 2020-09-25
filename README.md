@@ -13,12 +13,12 @@
    
 ## EDA
 ##### These are some visualization which explain deep inside information about Boston houses prices.
-#### Histogram
+#### Histograms
    ![](images/avg_no_room.png)    
-   ![](images/house_price.png)
-   ![](images/room_price.png)
+   ![](images/house_price.png)  
    
 #### Scatter Plot   
+   ![](images/room_price.png)
    <img src="images/distance.png" width ="500" height="300" >   
 
 #### Joint Plot   
